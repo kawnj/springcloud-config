@@ -1,4 +1,4 @@
-pageSize: 2
+pageSize: 5
 spring:
   datasource:
     driver-class-name: com.mysql.jdbc.Driver
